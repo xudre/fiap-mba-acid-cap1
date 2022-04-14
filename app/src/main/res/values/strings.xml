@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">ACID - Cap 1</string>
-    <string name="action">Action</string>
+    <string name="action">Evento no Analytics</string>
+    <string name="crash_now">Crash agora!</string>
 </resources>
